@@ -50,6 +50,13 @@
 <br>
 
 
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Rogerin10&show_icons=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rogerin10&label=Profile%20views&color=0e75b6&style=flat" alt="Rogerin10" /> </p>
+
+<!--Credit: [Rogerin](https://github.com/Rogerin10)->
+
+
 
 <!--Credit: [Rogerin](https://github.com/Rogerin10)->
 
