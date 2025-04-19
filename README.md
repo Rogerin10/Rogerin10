@@ -3,7 +3,7 @@
 
 
 	
-## <picture><img src = " " width = 50px></picture> **About me**
+## **About me**
 
 
 - Passionate about technology, cat lover and interested in everyday life issues.
